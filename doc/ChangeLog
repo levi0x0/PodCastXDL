@@ -1,0 +1,15 @@
+06-9-2014
+	* Added --restore Option v0.7
+
+05-09-2014 levi0x0
+	* v0.6, added sync option, Bug fixes
+
+29-06-2014 levi0x0
+	* Added --quiet, --links options. v0.3
+
+27-06-2014 levi0x0
+	* Added getopt parser, and download by format. v0.2
+
+25-06-2014 - levi0x0
+	* First release v0.1
+
